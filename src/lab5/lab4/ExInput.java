@@ -1,6 +1,5 @@
-package lab4;
+package lab5.lab4;
 
-import javax.sound.sampled.Line;
 import java.util.Scanner;
 
 public class ExInput {
